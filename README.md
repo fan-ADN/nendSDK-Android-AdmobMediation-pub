@@ -1,5 +1,7 @@
 # nendSDK-Android-AdmobMediation-pub
 
+![logo](https://user-images.githubusercontent.com/9563381/31269103-17daebce-aaba-11e7-9899-742435c4ef20.png)
+
 ## Overview
 
 この .jar ファイルは、google社 AdMobメディエーション機能からnend広告を利用する場合に必要になるアダプタです。
