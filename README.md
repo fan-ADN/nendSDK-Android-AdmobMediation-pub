@@ -1,5 +1,11 @@
 # nendSDK AdMob mediation for Android
 
+nendはGoogle AdMob メディエーション と`動画リワード広告`の正式連携をしました。  
+今後、AdMobメディエーションを利用する際は正式連携版をご利用ください。
+
+The rewarded-video-ad of nend has been started official mediatationing to Google AdMob.  
+We recommend to use official mediatationing adapter.
+
 ![logo](https://user-images.githubusercontent.com/9563381/31269103-17daebce-aaba-11e7-9899-742435c4ef20.png)
 
 ## Overview
