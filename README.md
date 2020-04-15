@@ -28,4 +28,4 @@ AdMobメディエーションを使用しない場合、もしくはカスタム
 
 ## License
 
-Copyright (C) F@N Communications, Inc.
+Copyright (C) FAN Communications, Inc.
